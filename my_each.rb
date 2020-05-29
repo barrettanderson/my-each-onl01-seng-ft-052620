@@ -6,7 +6,7 @@ def my_each(array) # put argument(s) here
   end
   # does something here with the elements of an array
   # returns the original array
-
+  array
 end
 
 # my_each(collection) do |i|
