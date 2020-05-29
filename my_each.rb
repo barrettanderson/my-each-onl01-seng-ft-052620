@@ -2,7 +2,7 @@ def my_each(words) # put argument(s) here
   counter = 0
   while counter < array.length
     # yield array[counter]
-    # counter += 1
+    counter += 1
   end
   # does something here with the elements of an array
   # returns the original array
