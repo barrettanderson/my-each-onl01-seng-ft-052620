@@ -1,6 +1,5 @@
 def my_each(file) # put argument(s) here
-  # code here
-  while condition
-
-  end
+  # loops through an array
+  # does something here with the elements of an array
+  # returns the original array
 end
