@@ -10,7 +10,7 @@ def my_each(words) # put argument(s) here
 end
 
 # my_each(collection) do |i|
-# puts i
+# put\s i
 # end
 
 # Note: Some of the tests may be passing before you write any code. But, in
